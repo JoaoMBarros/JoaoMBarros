@@ -6,7 +6,7 @@ Fui introduzido ao mundo da tecnologia muito novo, e desde então sou fascinado.
 
 No momento aprendendo desenvolvimento WEB e Android.
 
-
+<a href="https://www.linkedin.com/in/joão-pedro-monteiro-303a01212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
