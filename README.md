@@ -1,6 +1,6 @@
 # Olá! <img src="https://user-images.githubusercontent.com/1534150/172605845-b63b82dc-cbff-46f1-b4b0-41c7db605ce8.gif" width="30" alt="Waving hand animation">
 
-Me chamo João, e moro no Brasil.
+Me chamo João, e moro no estado do Piauí, Brasil.
 
 Fui introduzido ao mundo da tecnologia muito novo, e desde então sou fascinado. Atualmente estudante de ciência da computação na Universidade Federal do Piauí. Sou uma pessoa de fácil vivência e forte companheirismo, sempre com o melhor em mente!
 
