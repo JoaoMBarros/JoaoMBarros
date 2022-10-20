@@ -2,7 +2,7 @@
 
 Me chamo João, e moro no estado do Piauí, Brasil.
 
-Fui introduzido ao mundo da tecnologia muito novo, e desde então sou fascinado. Atualmente estudante de ciência da computação na Universidade Federal do Piauí. Sou uma pessoa de fácil vivência e forte companheirismo, sempre com o melhor em mente!
+Atualmente estudante de ciência da computação na Universidade Federal do Piauí.
 
 No momento aprendendo desenvolvimento WEB e Android.
 
