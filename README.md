@@ -4,7 +4,7 @@ Me chamo João, e moro no estado do Piauí, Brasil.
 
 Atualmente estudante de ciência da computação na Universidade Federal do Piauí.
 
-No momento aprendendo desenvolvimento WEB e Android.
+No momento aprendendo desenvolvimento WEB, cloud e arquitetura de software.
 
 <a href="https://www.linkedin.com/in/joão-pedro-monteiro-303a01212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
