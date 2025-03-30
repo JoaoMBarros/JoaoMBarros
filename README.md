@@ -2,9 +2,9 @@
 
 Me chamo João, e moro no estado do Piauí, Brasil.
 
-Atualmente estudante de ciência da computação na Universidade Federal do Piauí.
+Atualmente estudante de ciência da computação na Universidade Federal do Piauí e desenvolvedor back-end na InfoG2.
 
-No momento aprendendo desenvolvimento WEB, com foco no back-end, cloud e arquitetura de software.
+No momento trabalho com desenvolvimento WEB e cloud.
 
 <a href="https://www.linkedin.com/in/joão-pedro-monteiro-303a01212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
